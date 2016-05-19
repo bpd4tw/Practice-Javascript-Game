@@ -1,7 +1,16 @@
 $(document).ready(function() {
-  // This is called after the document has loaded in its entirety
-  // This guarantees that any elements we bind to will exist on the page
-  // when we try to bind to them
+     // var canvas = document.getElementById("myCanvas");
+     //  var ctx = canvas.getContext("2d");
 
-  // See: http://docs.jquery.com/Tutorials:Introducing_$(document).ready()
+     //  ctx.beginPath();
+     //  ctx.rect(20, 40, 50, 50);
+     //  ctx.fillStyle = "#FF0000";
+     //  ctx.fill();
+     //  ctx.closePath();
+
+     //  ctx.beginPath();
+     //  ctx.arc(240, 160, 20, 0, Math.PI*2, false);
+     //  ctx.fillStyle = "green";
+     //  ctx.fill();
+     //  ctx.closePath();
 });
